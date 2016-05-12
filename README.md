@@ -2,7 +2,8 @@
 This repository contains code from lecture this past Monday. We built a simple todo list application to illustrate how the controller interacts with the view and changes the data models. We only implemented adding todos to the list. When we click on the checkbox next to a todo-item, you'll see a strikethrough the item but the item is not removed from the actual list. 
 
 ### Assignment
-Remove a todo item from the list altogether
+1. Remove a todo item from the list altogether
+2. Style your todo app and create a user experience similar to one that you use/would like to use
 
 ### Getting Started
 1. Clone this repository using `git clone https://github.com/harjas/js220_todoapp.git`
